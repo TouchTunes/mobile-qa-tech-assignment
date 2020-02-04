@@ -6,11 +6,13 @@ This is the home assignment to assess your coding skills and test design skills.
 
 1. The APK file of application under test is here: https://apkpure.com/touchtunes/com.touchtunes.android 
 
-2. When users first opens the application, there is an onboarding flow that they can do. You can either test the flow or simply skip it.
+2. The instructions on how to setup Appium can be found here: https://www.swtestacademy.com/how-to-install-appium-on-mac/
+
+3. When users first opens the application, there is an onboarding flow that they can do. You can either test the flow or simply skip it.
 
 ![Skip onboarding](assets/skip_onboarding.png)
 
-3. You can use any jukebox that you want. If location is important for your test, please provide GPS coordinates 
+4. You can use any jukebox that you want. If location is important for your test, please provide GPS coordinates 
 
 ![Coordinates](assets/coordinates.png) 
 
