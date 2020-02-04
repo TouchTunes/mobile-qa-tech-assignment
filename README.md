@@ -1,34 +1,27 @@
 # mobile-qa-tech-assignment
 
-**Dear Candidate**,
+This is the home assignment to assess your coding skills and test design skills. Please use Appium with any Appium client and push your code to a public git repository, alongside with instruction to set up environment and to run your code. Follow the **page object model**. Good Luck!
 
-This is the home assignment to assess your coding skills and problem-solving techniques. Good Luck! 
+# Notes:
 
-**Question:**
+1. The APK file of application under test is here: https://apkpure.com/touchtunes/com.touchtunes.android 
 
-Develop test script for the following scenario preferably (Java, Appium & TestNG) and push your code to a public git repository with detailed instructions to set up an environment and be able to run your test script.
+2. When users first opens the application, there is an onboarding flow that they can do. You can either test the flow or simply skip it.
 
-This test mainly focuses on Coding Standards using Page Object Model, the knowledge on Appium commands, the structure of test framework and git knowledge.
+![Skip onboarding](assets/skip_onboarding.png)
 
-You can download Saavn (mobile app) APK file from this link: https://apkpure.com/saavn-music-radio/com.saavn.android
+3. You can use any jukebox that you want. If location is important for your test, please provide GPS coordinates 
 
-**Recommendations**  
+![Coordinates](assets/coordinates.png) 
 
-> Validate each screen that is being navigated
+# Question:
 
-> Close any advertisements that pop-up between any test steps
+Choose any jukebox location. Open “Hot at \<jukebox name\>” menu on the home page, than open “Hot Artists” menu. 
 
-
-**Scenario(Onboarding)**
-1.	Launch the App
-2.	Validate the App is launched and landing screen is displayed
-3.	Unselect “Hindi” in the landing screen
-4.	Scroll the down the “Other Languages” List to select “Assamese” language
-5.	Validate the number of selected language at the footer bar of the landing screen
-6.	Click on the “Done” button
-7.	Close any advertisements that occur between any test steps
-8.	Validate that the Home screen is displayed
-9.	Close the App
+![Navigation](assets/navigation1.png)    ![Navigation](assets/navigation2.png)
 
 
-All the Best
+Verify that the artists displayed on this page are aligned with the artists displayed at “HOT AT \<jukebox name\>” vertical list of the home page.
+
+![Horizontal](assets/artist_horizontal_list.png)    ![Vertical](assets/artist_vertical_list.png)
+
