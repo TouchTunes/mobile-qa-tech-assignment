@@ -12,7 +12,7 @@ This is the home assignment to assess your coding skills and test design skills.
 
 ![Skip onboarding](assets/skip_onboarding.png)
 
-4. You can use any jukebox that you want. If location is important for your test, please provide GPS coordinates 
+4. You can use any jukebox that you want. Please provide GPS coordinates so that we can use the same location.
 
 ![Coordinates](assets/coordinates.png) 
 
