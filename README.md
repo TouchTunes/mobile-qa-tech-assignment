@@ -1,6 +1,10 @@
 # mobile-qa-tech-assignment
 
-This is the home assignment to assess your coding skills and **test design** skills. Please use Appium with any Appium client and push your code to a public git repository, alongside with instruction to set up environment and to run your code. Follow the Page Object model or any design pattern of your choice. If you choose not to use Page Object model, please explain why. Readability of the code and your QA sense is most important for us. Good Luck!
+This is the home assignment to assess your coding skills and **test design** skills. Please use Appium with any Appium client and push your code to a public git repository, alongside with clear instruction to set up environment and to run your code. Follow the Page Object model or any design pattern of your choice. If you choose not to use Page Object model, please explain why. Readability of the code and your QA sense is most important for us. 
+
+**Please do not make a pull request. Give us a link to your repository instead.**
+
+Good Luck!
 
 # Notes:
 
